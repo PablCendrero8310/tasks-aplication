@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+ 
+ .fi{
+    transform: scale(1.5);
+ }
+ 
